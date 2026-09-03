@@ -25,9 +25,7 @@ Foodie Spot is a modern, fully responsive single-page restaurant website built w
 
 ## 🚀 Demo
 
-*Live demo link (if deployed):* [https://foodiespot-demo.vercel.app](https://foodiespot-demo.vercel.app)
-
-*(Replace with your actual deployment URL)*
+*Live demo link :* [https://foodiespot-demo.vercel.app](https://foodiespot-demo.vercel.app)
 
 ---
 
